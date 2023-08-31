@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <style name="SpalceScreen" parent="Theme.HotelManagementSystem">
+        <item name="android:windowBackground">@drawable/hotel_file</item>
+        <item name="colorPrimaryVariant">@color/green</item>
+    </style>
+
+    <style name="RegistrationStyle" parent="Theme.HotelManagementSystem">
+        <item name="colorPrimaryVariant">@color/orange</item>
+    </style>
+
+    <style name="ForgotPasswordStyle" parent="Theme.HotelManagementSystem">
+        <item name="colorPrimaryVariant">@color/blue</item>
+    </style>
+
+    <style name="HomeStyle" parent="Theme.HotelManagementSystem">
+        <item name="colorPrimaryVariant">@color/sky</item>
+    </style>
+
+    <style name="RoomBookingStyle" parent="Theme.HotelManagementSystem">
+        <item name="colorPrimaryVariant">@color/sky</item>
+    </style>
+
+    <style name="RoomDetailsStyle" parent="Theme.HotelManagementSystem">
+        <item name="colorPrimaryVariant">@color/sky</item>
+    </style>
+
+    <style name="AboutUsStyle" parent="Theme.HotelManagementSystem">
+        <item name="colorPrimaryVariant">@color/sky</item>
+    </style>
+
+    <style name="RatingStyle" parent="Theme.HotelManagementSystem">
+        <item name="colorPrimaryVariant">@color/sky</item>
+    </style>
+
+    <style name="ProfileStyle" parent="Theme.HotelManagementSystem">
+        <item name="colorPrimaryVariant">@color/sky</item>
+    </style>
+
+    <style name="UpdateProfileStyle" parent="Theme.HotelManagementSystem">
+        <item name="colorPrimaryVariant">@color/sky</item>
+    </style>
+
+    <style name="GalleryStyle" parent="Theme.HotelManagementSystem">
+        <item name="colorPrimaryVariant">@color/sky</item>
+    </style>
+
+</resources>
